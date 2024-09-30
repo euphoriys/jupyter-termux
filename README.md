@@ -1,2 +1,4 @@
 # jupyter-termux
-bash <(curl -s https://raw.githubusercontent.com/euphoriys/neovim-termux/main/setup.sh)
+```
+bash <(curl -s https://raw.githubusercontent.com/euphoriys/jupyter-termux/main/setup.sh)
+```
